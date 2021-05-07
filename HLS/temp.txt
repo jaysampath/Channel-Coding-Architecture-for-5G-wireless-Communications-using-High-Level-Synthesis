@@ -1,0 +1,1 @@
+Create your own header and test bench file using different input parameters like base matix, Information bits length, rate, number of frames, SNR, Code word size and modulation technique. The main logic for decoding is only provided.
