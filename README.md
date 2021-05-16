@@ -6,4 +6,6 @@ for LDPC codes. The proposed design achieves peak throughputs in lower latencies
 Tech Stack: Matlab 2020.a, Vivado HLS 2020.1 
 <br>
 <h1>References</h1>
-<a href="https://www.hindawi.com/journals/ijrc/2017/3689308/">FPGA-Based Channel Coding Architectures for 5G Wireless Using High-Level Synthesis</a>
+<ul>
+<li> <a href="https://www.hindawi.com/journals/ijrc/2017/3689308/">FPGA-Based Channel Coding Architectures for 5G Wireless Using High-Level Synthesis</a> </li>
+ </ul>
