@@ -5,7 +5,22 @@ for LDPC codes. The proposed design achieves peak throughputs in lower latencies
 <br>
 Tech Stack: Matlab 2020.a, Vivado HLS 2020.1 
 <br>
+<h1>Approach</h1>
+<p> <b> Channel Coding Technique : </b> LDPC encoding and decoding </p>
+<p> <b> Encoding Algorithm : </b> Using Double Diagonal Structure of base matrix </p>
+<p> <b> Decoding ALgorithm : </b> Min-Sum BP using Layered Decoding </p>
+<p> <b> Modulation Technique : </b> BPSK</p>
+<p> <b> Channel Noise </b> AWGN </p>
+<p> <b> HLS Transformation Techniques : </b> Pipelining, parallel processing, Loop Unrolling, Array Partitioning </p>
+
+<h1>Achieved Results </h1>
+<p> <b> Tagret Device : </b> Kintex-7 484G family </p>
+<p> <b> Throughput : </b> 2.113 GB/s</p>
+<p> <b> Latency : </b> 19.8 &micro s </p>
+
 <h1>References</h1>
 <ul>
 <li> <a href="https://www.hindawi.com/journals/ijrc/2017/3689308/">FPGA-Based Channel Coding Architectures for 5G Wireless Using High-Level Synthesis</a> </li>
- </ul>
+<li> <a href="https://dl.acm.org/doi/10.1145/3290420.3290441">Optimization of FPGA-based LDPC decoder using high-level synthesis</a> </li>
+<li> <a href="https://ieeexplore.ieee.org/abstract/document/9148457">Adaptive Modulation and Coding Technology in 5G System</a> </li>
+</ul>
