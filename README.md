@@ -18,6 +18,14 @@ Tech Stack: Matlab 2020.a, Vivado HLS 2020.1
 <p> <b> Throughput : </b> 2.113 GB/s</p>
 <p> <b> Latency : </b> 19.8 &micro s </p>
 
+<h1> Publications </h1>
+<p> View this project on </p>
+ <ul>
+  <li> IEEE - http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9453001 </li>
+  <li> Research Gate - https://www.researchgate.net/publication/352578007_An_efficient_Channel_Coding_Architecture_for_5G_Wireless_using_High-Level_Synthesis </li>
+  <li> Semantic Scholar - https://www.semanticscholar.org/paper/An-efficient-Channel-Coding-Architecture-for-5G-Sampath-Kumar/7454e040b65ce504c233eb0ec77a6b4b3609ae0c </li>
+  </ul>
+
 <h1>References</h1>
 <ul>
 <li> <a href="https://www.hindawi.com/journals/ijrc/2017/3689308/">FPGA-Based Channel Coding Architectures for 5G Wireless Using High-Level Synthesis</a> </li>
